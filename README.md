@@ -183,4 +183,5 @@ Set	Unique role/permission
 Map	Cache, config
 Queue	Task processing
 Deque	Logging / history
+<img width="1918" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce57d955-d044-4136-8ebf-f6d408e315c3" />
 
